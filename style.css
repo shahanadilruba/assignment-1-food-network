@@ -44,8 +44,7 @@ h2{
     font-size: 30px;
     color: rgb(128, 128, 128);
 }
-.about-me
-{
+.about-me{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -60,8 +59,9 @@ h2{
     margin-right: 160px;  
     margin-bottom: 200px;
 }
-
-
+h3{
+text-align: center;
+}
 footer{
     text-align: center;
     background-color: black;
