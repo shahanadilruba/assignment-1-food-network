@@ -1,4 +1,8 @@
+html{
+    margin: 20px 20px 20px 20px
+}
 h1{
+
     font-size: 1200;
     font-weight: 700;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -6,4 +10,26 @@ h1{
 }
 .orange-color{
     color: orangered;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    padding-bottom: 20px;
+  
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 10px 40px;
+    border-radius: 5px;
+   color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 700;
+   
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+  
 }
