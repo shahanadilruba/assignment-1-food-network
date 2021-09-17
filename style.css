@@ -2,7 +2,7 @@ html{
     margin: 20px 20px 20px 20px
 }
 body{
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 h1{
     font-size: 50px;
@@ -41,7 +41,7 @@ p{
     width: 70%;
 }
 h2{
-    font-size: 30px;
+    font-size: 40px;
     color: rgb(128, 128, 128);
 }
 .about-me{
@@ -60,7 +60,19 @@ h2{
     margin-bottom: 200px;
 }
 h3{
-text-align: center;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+.recipes{
+    text-align: center;
+}
+h4{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.falafel img{
+   size:50% ;
 }
 footer{
     text-align: center;
